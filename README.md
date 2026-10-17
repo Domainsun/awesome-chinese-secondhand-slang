@@ -3,11 +3,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
-  <img src="https://img.shields.io/badge/Platform-闲鱼%20%7C%20转转%20%7C%20小红书-amber.svg" alt="Platforms" />
+  <img src="https://img.shields.io/badge/Variants-4%2C476%2B%20实战暗号-amber.svg" alt="4,476+ Variants" />
+  <img src="https://img.shields.io/badge/Topics-110%20核心品类-purple.svg" alt="110 Topics" />
+  <img src="https://img.shields.io/badge/Platform-闲鱼%20%7C%20转转%20%7C%20小红书-blue.svg" alt="Platforms" />
   <img src="https://img.shields.io/badge/Status-Actively%20Maintained-emerald.svg" alt="Maintenance" />
 </p>
 
-> 📚 **收录闲鱼（Goofish）、转转、小红书等二手交易平台 400+ 条核心暗号变体、卖家潜台词透视、买家避坑验货指南与合规替代词库。**
+> 📚 **收录闲鱼（Goofish）、转转、小红书等二手交易平台 4,476+ 条实战暗号变体 · 110 大核心品类主题、卖家潜台词透视、买家避坑验货指南与合规替代词库。**
 >
 > 无论是**买家想捡漏防被割韭菜**，还是**合法卖家想合规防封号**，这里都是最全、最新的中文二手交易暗语开源百科。
 
@@ -121,7 +123,7 @@
 
 ```bash
 # 获取最新完整词典 JSON
-curl -O https://raw.githubusercontent.com/{OWNER}/awesome-chinese-secondhand-slang/main/data/slang-dictionary.json
+curl -O https://raw.githubusercontent.com/Domainsun/awesome-chinese-secondhand-slang/main/data/slang-dictionary.json
 ```
 
 ---
