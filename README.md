@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
-  <img src="https://img.shields.io/badge/Variants-4%2C569%2B%20实战暗号-amber.svg" alt="4,569+ Variants" />
-  <img src="https://img.shields.io/badge/Topics-110%20核心品类-purple.svg" alt="110 Topics" />
+  <img src="https://img.shields.io/badge/Variants-5,082%2C569%2B%20实战暗号-amber.svg" alt="4,569+ Variants" />
+  <img src="https://img.shields.io/badge/Topics-149%20核心品类-purple.svg" alt="110 Topics" />
   <img src="https://img.shields.io/badge/Platform-闲鱼%20%7C%20转转%20%7C%20小红书-blue.svg" alt="Platforms" />
   <img src="https://img.shields.io/badge/Status-Actively%20Maintained-emerald.svg" alt="Maintenance" />
 </p>
@@ -19,9 +19,9 @@
 >
 > 嫌查字典麻烦？需要**整段文案一键排雷检测**？自动**将违禁敏感词转为当前最新存活暗语**？实时查看**词条存活状态与生成避坑海报**？
 >
-> 👉 **[点击进入「暗语」在线中枢 (anyu.luckhub.cc)](https://anyu.luckhub.cc)**
+> 👉 **[点击进入「闲鱼黑话与闲鱼暗语大全」在线检索中枢 (https://anyu.luckhub.cc)](https://anyu.luckhub.cc)**
 >
-> *(💡 官方线上服务现已开通：支持买家一键解码套路、卖家文案合规转译、纯算法零 Cookie 追踪)*
+> *(💡 官方线上中枢已开通：收录闲鱼黑话、闲鱼暗语全量 4,500+ 条变体，支持买家一键解码套路、卖家文案合规排雷转译、免登录秒级接头)*
 
 ---
 
